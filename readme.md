@@ -3,7 +3,7 @@
 <h1 style='margin:10px;user-select: none;font-size:50px;text-align:center;color:white'>Kuiper.JSON</h1>
 <h2 style='margin:10px;user-select: none;font-size:30px;text-align:center;color:white'>JSON Data Storage made easy!</h2>
 
-
+<h2 style='margin:10px;user-select: none;font-size:30px;text-align:center;color:white'><b>NOTE: THIS PACKAGE IS USELESS FOR MOST PRACTICAL APPLICATIONS, AND ONLY HAS A FEW SPECIFIC USE CASES</b></h2>
 </div>
 
 *Getting started with Kupier.JSON*
